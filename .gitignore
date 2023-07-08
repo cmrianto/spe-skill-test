@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+go.sum
+
+# Ignore config
+config.toml
