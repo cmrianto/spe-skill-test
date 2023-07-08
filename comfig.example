@@ -1,0 +1,6 @@
+[Application]
+    ServiceName="speSkillTest"
+    ServiceVersion="1.0.0"
+    Env="local"
+    ServerHost="localhost"
+    ServerPort=10001
